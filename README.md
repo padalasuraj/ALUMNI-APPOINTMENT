@@ -15,7 +15,7 @@ Welcome to the Alumni Recruitment Portal project! This web application aims to s
 - Frontend: [HTML, CSS, JavaScript]
 - Backend: [Python, Django Framework]
 - Database: [MySQL/PostgreSQL]
-- Authentication: [JWT Tokens]
+
 
 ## Setup Instructions
 

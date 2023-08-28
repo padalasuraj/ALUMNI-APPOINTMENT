@@ -25,7 +25,7 @@ Welcome to the Alumni Recruitment Portal project! This web application aims to s
 4. Set up the database: [Instructions for setting up and configuring your chosen database]
 5. Configure environment variables: Create a `.env` file and set your application's secret key, database credentials, and other necessary settings.
 6. Run migrations: `python manage.py makemigrations` followed by `python manage.py migrate`
-7. Launch the server: `python manage.py runserver`
+
 
 ## Usage
 

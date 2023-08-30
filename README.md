@@ -34,17 +34,7 @@ Welcome to the Alumni Recruitment Portal project! This web application aims to s
 3. Once logged in, alumni can explore the student database, view profiles, and express interest in students for recruitment.
 4. Students can update their profiles to showcase their skills, projects, and experiences.
 5. Notifications about student interest, upcoming events, and opportunities will be displayed on the dashboard.
-
 ## Contributions
-
 Contributions to the project are welcome! If you find any issues or have ideas for improvements, feel free to create a pull request or submit an issue.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 We hope this Alumni Recruitment Portal serves as an effective tool to connect our esteemed alumni with the talented students of our college. Feel free to reach out to the project maintainers for any questions or feedback.
-
 Happy recruiting!
